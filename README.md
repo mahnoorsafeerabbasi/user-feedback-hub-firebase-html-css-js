@@ -7,12 +7,12 @@ This project is a user feedback hub implemented using Firebase for data storage 
 ## Prerequisites ##
 Before you begin, make sure you have the following installed:
 
-Web browser
-Code editor (e.g., Visual Studio Code)
+1)Web browser
+2)Code editor (e.g., Visual Studio Code)
 
 ## Setup ##
-**Firebase Configuration:
-**
+**Firebase Configuration:**
+
 Create a Firebase project in the Firebase Console.
 Obtain your Firebase configuration object (apiKey, authDomain, databaseURL, projectId, storageBucket, messagingSenderId, appId) from the Firebase project settings.
 User Feedback Hub
@@ -40,8 +40,8 @@ Adjust the Firebase Realtime Database structure in the saveFeedback function bas
 
 
 ## Usage
-**Submitting Feedback:
-**
+**Submitting Feedback:**
+
 Open index.html in a web browser.
 Fill in the "Username" and "Your Feedback" fields in the form.
 Click on "Submit Feedback" to submit feedback.
